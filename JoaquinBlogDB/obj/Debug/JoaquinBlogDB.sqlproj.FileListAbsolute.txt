@@ -1,0 +1,10 @@
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\bin\Debug\JoaquinBlogDB.dacpac
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\bin\Debug\JoaquinBlogDB.dll
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\bin\Debug\JoaquinBlogDB.pdb
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\obj\Debug\JoaquinBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\obj\Debug\Model.xml
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\obj\Debug\refactor.xml
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\obj\Debug\postdeploy.sql
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\obj\Debug\predeploy.sql
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\obj\Debug\JoaquinBlogDB.dll
+C:\Users\rain\source\repos\JOAQUINLE2\JoaquinBlogDB\obj\Debug\JoaquinBlogDB.pdb
